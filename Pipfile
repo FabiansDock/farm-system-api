@@ -7,7 +7,9 @@ name = "pypi"
 fastapi-slim = "*"
 fastapi-cli = "*"
 uvicorn = "*"
+python-multipart = "*"
 sqlalchemy = "*"
+pydantic = {extras = ["email"], version = "*"}
 
 [dev-packages]
 
