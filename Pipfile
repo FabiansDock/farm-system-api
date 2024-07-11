@@ -7,7 +7,7 @@ name = "pypi"
 fastapi-slim = "*"
 fastapi-cli = "*"
 uvicorn = "*"
-python-multipart = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
